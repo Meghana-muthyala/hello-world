@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hello everyone!
+Myself Meghana.I like programming and love to code
